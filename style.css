@@ -1,0 +1,18 @@
+.copy_right_footer{
+    bottom:0;
+    position: fixed;
+    background-color: blue;
+    color:orange;
+    line-height: 3;
+    text-align: center;
+    font-family: fantasy;
+    width: 100%;
+    font-size: 15;
+
+}
+canvas{
+    box-shadow: 5px 5px 18px blue;
+    border: 2px dotted purple;
+    border-radius: 20px;
+    margin-top: 150px;
+}
